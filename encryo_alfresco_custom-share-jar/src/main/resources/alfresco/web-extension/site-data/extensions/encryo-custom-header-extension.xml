@@ -1,0 +1,14 @@
+<extension>
+  <modules>
+    <module>
+      <id>Encryo Custom Share Header Menu</id>
+      <version>1.0</version>
+      <customizations>
+        <customization>
+          <targetPackageRoot>org.alfresco.share.header</targetPackageRoot>
+          <sourcePackageRoot>encryo</sourcePackageRoot>
+        </customization>
+      </customizations>
+    </module>
+  </modules>
+</extension>

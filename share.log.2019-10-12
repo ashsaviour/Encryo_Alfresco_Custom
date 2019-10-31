@@ -1,0 +1,124 @@
+2019-10-12 14:30:44,369 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
+2019-10-12 14:30:44,370 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
+
+2019-10-12 14:30:44,782 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 14:30:44,786 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 14:30:44,801 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 14:30:44,803 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 14:30:49,985 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-10-12 14:30:49,986 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2019-10-12 14:30:49,987 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2019-10-12 14:30:50,034 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 5215.185ms)
+2019-10-12 14:30:50,037 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 14:30:50,038 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 14:34:42,431 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-17] Successfully retrieved license information from Alfresco.
+2019-10-12 14:35:08,787 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-17] Successfully retrieved IMAP server status from Alfresco: disabled
+2019-10-12 14:38:06,387 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-31] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-10-12 14:38:06,390 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-31] Registered 8 Package Description Documents (+0 failed) 
+2019-10-12 14:38:06,391 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-31] Registered 0 Schema Description Documents (+0 failed) 
+2019-10-12 14:38:06,432 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8080-exec-31] Initialised Surf Container Web Script Container (in 3867.0972ms)
+2019-10-12 14:42:12,698 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-26] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-10-12 14:42:12,700 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-26] Registered 8 Package Description Documents (+0 failed) 
+2019-10-12 14:42:12,701 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-26] Registered 0 Schema Description Documents (+0 failed) 
+2019-10-12 14:42:12,734 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8080-exec-26] Initialised Surf Container Web Script Container (in 3812.9644ms)
+2019-10-12 14:48:04,854 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
+2019-10-12 14:48:04,855 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
+
+2019-10-12 14:48:05,211 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 14:48:05,214 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 14:48:05,216 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 14:48:05,217 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 14:48:10,039 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-10-12 14:48:10,043 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2019-10-12 14:48:10,043 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2019-10-12 14:48:10,084 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 4852.407ms)
+2019-10-12 14:48:10,087 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 14:48:10,088 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 14:50:43,652 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-4] Successfully retrieved license information from Alfresco.
+2019-10-12 14:51:04,571 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-4] Successfully retrieved IMAP server status from Alfresco: disabled
+2019-10-12 14:55:08,423 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-16] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-10-12 14:55:08,424 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-16] Registered 8 Package Description Documents (+0 failed) 
+2019-10-12 14:55:08,425 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-16] Registered 0 Schema Description Documents (+0 failed) 
+2019-10-12 14:55:08,470 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8080-exec-16] Initialised Surf Container Web Script Container (in 3981.514ms)
+2019-10-12 15:10:47,716 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
+2019-10-12 15:10:47,732 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
+
+2019-10-12 15:10:48,090 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 15:10:48,094 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 15:10:48,095 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 15:10:48,097 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 15:10:52,898 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-10-12 15:10:52,899 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2019-10-12 15:10:52,901 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2019-10-12 15:10:52,949 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 4836.964ms)
+2019-10-12 15:10:52,952 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 15:10:52,965 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 15:11:12,489 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-4] Successfully retrieved license information from Alfresco.
+2019-10-12 15:11:42,011 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-10] Successfully retrieved IMAP server status from Alfresco: disabled
+2019-10-12 15:19:40,913 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
+2019-10-12 15:19:40,914 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
+
+2019-10-12 15:19:41,566 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 15:19:41,569 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 15:19:41,572 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 15:19:41,573 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 15:19:46,389 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-10-12 15:19:46,390 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2019-10-12 15:19:46,392 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2019-10-12 15:19:46,437 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 4848.1455ms)
+2019-10-12 15:19:46,440 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 15:19:46,442 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 15:20:07,847 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-9] Successfully retrieved license information from Alfresco.
+2019-10-12 15:20:29,721 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-9] Successfully retrieved IMAP server status from Alfresco: disabled
+2019-10-12 15:26:59,959 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-1] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-10-12 15:26:59,961 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-1] Registered 8 Package Description Documents (+0 failed) 
+2019-10-12 15:26:59,962 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-1] Registered 0 Schema Description Documents (+0 failed) 
+2019-10-12 15:27:00,010 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [http-bio-8080-exec-1] Initialised Surf Container Web Script Container (in 3695.0627ms)
+2019-10-12 15:33:20,485 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
+2019-10-12 15:33:20,487 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
+
+2019-10-12 15:33:21,137 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 15:33:21,140 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 15:33:21,141 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 15:33:21,143 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 15:33:25,713 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-10-12 15:33:25,714 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2019-10-12 15:33:25,715 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2019-10-12 15:33:25,759 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 4601.653ms)
+2019-10-12 15:33:25,762 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 15:33:25,763 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 15:34:33,749 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-3] Successfully retrieved license information from Alfresco.
+2019-10-12 15:35:13,436 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-3] Successfully retrieved IMAP server status from Alfresco: disabled
+2019-10-12 15:44:10,089 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
+2019-10-12 15:44:10,091 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
+
+2019-10-12 15:44:10,482 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 15:44:10,486 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 15:44:10,488 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 15:44:10,489 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 15:44:15,351 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-10-12 15:44:15,352 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2019-10-12 15:44:15,353 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2019-10-12 15:44:15,400 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 4893.8076ms)
+2019-10-12 15:44:15,403 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 15:44:15,404 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 15:46:08,609 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-12] Successfully retrieved license information from Alfresco.
+2019-10-12 15:46:28,058 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-12] Successfully retrieved IMAP server status from Alfresco: disabled
+2019-10-12 16:02:54,235 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
+2019-10-12 16:02:54,236 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
+
+2019-10-12 16:02:54,576 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 16:02:54,580 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 16:02:54,583 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 16:02:54,584 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 16:02:59,091 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-10-12 16:02:59,092 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2019-10-12 16:02:59,094 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2019-10-12 16:02:59,136 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 4536.3394ms)
+2019-10-12 16:02:59,139 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-10-12 16:02:59,141 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-10-12 16:08:42,485 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-12] Successfully retrieved license information from Alfresco.
+2019-10-12 16:09:02,766 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-12] Successfully retrieved IMAP server status from Alfresco: disabled
+2019-10-12 16:13:04,804 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-3] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-10-12 16:13:04,805 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-3] Registered 8 Package Description Documents (+0 failed) 
+2019-10-12 16:13:04,807 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [http-bio-8080-exec-3] Registered 0 Schema Description Documents (+0 failed) 

@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>Create Contact List</shortname>
+    <description>Create Contact List.</description>
+    <url>/createContactList</url>
+    <format default="html"></format>
+    <authentication>user</authentication>
+    <family>Encryo Javascript</family>
+</webscript>

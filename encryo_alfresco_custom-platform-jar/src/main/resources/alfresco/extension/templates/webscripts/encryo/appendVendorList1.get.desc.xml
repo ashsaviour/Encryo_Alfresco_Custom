@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>Append Vendor List</shortname>
+    <description>Append Vendor List.</description>
+    <url>/appendVendorList1</url>
+    <format default="html"></format>
+    <authentication>user</authentication>
+    <family>Encryo Javascript</family>
+</webscript>

@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>Create Vendor List</shortname>
+    <description>Create Vendor List.</description>
+    <url>/createVendorList</url>
+    <format default="html"></format>
+    <authentication>user</authentication>
+    <family>Encryo Javascript</family>
+</webscript>
