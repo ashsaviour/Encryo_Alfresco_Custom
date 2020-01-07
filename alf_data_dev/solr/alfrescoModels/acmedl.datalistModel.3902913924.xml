@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model xmlns="http://www.alfresco.org/model/dictionary/1.0" name="acmedl:datalistModel">
+    <description>Encryo Custom Datalist</description>
+    <author>Cui Jiakun</author>
+    <version>1.0</version>
+    <imports>
+        <import uri="http://www.alfresco.org/model/dictionary/1.0" prefix="d"/>
+        <import uri="http://www.alfresco.org/model/content/1.0" prefix="cm"/>
+        <import uri="http://www.alfresco.org/model/datalist/1.0" prefix="dl"/>
+    </imports>
+    <namespaces>
+        <namespace uri="http://www.acme.org/model/datalist/1.0" prefix="acmedl"/>
+    </namespaces>
+    <data-types/>
+    <constraints/>
+    <types>
+        <type name="acmedl:ContactListItem">
+            <title>Contact List Item</title>
+            <description>Contact List for Encryo</description>
+            <parent>dl:dataListItem</parent>
+            <properties>
+                <property name="acmedl:CL_EmployeeNo">
+                    <type>d:text</type>
+                    <mandatory>true</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:CL_EnglishName">
+                    <type>d:text</type>
+                    <mandatory>true</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:CL_ChineseName">
+                    <type>d:text</type>
+                    <mandatory>true</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:CL_JobTitle">
+                    <type>d:text</type>
+                    <mandatory>true</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:CL_OfficeNumber">
+                    <type>d:text</type>
+                    <mandatory>true</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:CL_SiteNo">
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:CL_MobilePhone">
+                    <type>d:text</type>
+                    <mandatory>true</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:CL_EncryoEmail">
+                    <type>d:text</type>
+                    <mandatory>true</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:CL_MaisonEmail">
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+            </properties>
+            <associations/>
+            <overrides/>
+            <mandatory-aspects/>
+        </type>
+        <type name="acmedl:VendorListItem">
+            <title>Vendor List Item</title>
+            <description>Vendor List for Encryo</description>
+            <parent>dl:dataListItem</parent>
+            <properties>
+                <property name="acmedl:VL_Commodity">
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:VL_Company">
+                    <type>d:text</type>
+                    <mandatory>true</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:VL_Brand">
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:VL_Contact">
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:VL_Telephone">
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:VL_MobilePhone">
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:VL_Email">
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:VL_Country">
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:VL_Descipline">
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+            </properties>
+            <associations/>
+            <overrides/>
+            <mandatory-aspects/>
+        </type>
+        <type name="acmedl:LessonLearnListItem">
+            <title>Lesson Learn Item</title>
+            <description>Lesson and Learn List for Encryo</description>
+            <parent>dl:dataListItem</parent>
+            <properties>
+                <property name="acmedl:3L_Industry">
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                    <constraints>
+                        <constraint name="acmedl:industry_list" type="LIST">
+                            <parameter name="allowedValues">
+                                <list>
+                                    <value>LNG</value>
+                                    <value>Non-LNG</value>
+                                </list>
+                            </parameter>
+                        </constraint>
+                    </constraints>
+                </property>
+                <property name="acmedl:3L_ProjectNo">
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:3L_ProjectName">
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:3L_Discipline">
+                    <type>d:text</type>
+                    <mandatory>true</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:3L_KeyWord">
+                    <type>d:text</type>
+                    <mandatory>true</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:3L_Description">
+                    <type>d:text</type>
+                    <mandatory>true</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="acmedl:3L_Date">
+                    <type>d:date</type>
+                    <mandatory>true</mandatory>
+                    <index enabled="true"/>
+                </property>
+            </properties>
+            <associations/>
+            <overrides/>
+            <mandatory-aspects/>
+        </type>
+    </types>
+    <aspects/>
+</model>
