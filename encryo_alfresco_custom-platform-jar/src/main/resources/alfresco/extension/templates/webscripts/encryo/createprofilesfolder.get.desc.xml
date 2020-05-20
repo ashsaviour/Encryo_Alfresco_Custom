@@ -1,0 +1,9 @@
+<webscript>
+    <shortname>Create Profiles Folder</shortname>
+    <description>Create Profiles Folder</description>
+    <url>/createprofilesfolder</url>
+    <authentication>user</authentication>
+    <format default="html"></format>
+<!--     <lifecycle>sample</lifecycle>   --> 
+    <family>Encryo Javascript</family> 
+</webscript>

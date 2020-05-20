@@ -1,6 +1,6 @@
 #FileLock
-#Thu Dec 26 10:09:17 CST 2019
+#Tue May 19 17:40:30 CST 2020
 hostName=Y7000-Ash.mshome.net
-id=16f3ff71e22f29e60013f9bdee26009b41aea843050
+id=1722c4e5555c602cc11cb327a2d78b7a55e0d438b28
 method=file
-server=192.168.137.1\:58125
+server=172.17.82.161\:55332
